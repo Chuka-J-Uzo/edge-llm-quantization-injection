@@ -1,0 +1,36 @@
+{
+  "datasets": {
+    "jbb": {
+      "origin": "hf:JailbreakBench/JBB-Behaviors",
+      "rows": 200,
+      "downloaded_utc": "2026-09-24T13:15:10.333615+00:00"
+    },
+    "advbench": {
+      "origin": "https://raw.githubusercontent.com/llm-attacks/llm-attacks/main/data/advbench/harmful_behaviors.csv",
+      "rows": 520,
+      "downloaded_utc": "2026-09-24T13:15:11.131553+00:00"
+    },
+    "harmbench": {
+      "origin": "https://raw.githubusercontent.com/centerforaisafety/HarmBench/main/data/behavior_datasets/harmbench_behaviors_text_all.csv",
+      "rows": 200,
+      "downloaded_utc": "2026-09-24T13:15:12.192345+00:00"
+    },
+    "xstest": {
+      "origin": "https://raw.githubusercontent.com/paul-rottger/xstest/main/xstest_prompts.csv",
+      "rows": 450,
+      "downloaded_utc": "2026-09-24T13:15:12.880600+00:00"
+    },
+    "deepset": {
+      "origin": "hf:deepset/prompt-injections",
+      "rows": 662,
+      "downloaded_utc": "2026-09-24T13:15:18.292238+00:00"
+    },
+    "alpaca": {
+      "origin": "hf:tatsu-lab/alpaca",
+      "rows": 300,
+      "downloaded_utc": "2026-09-24T13:15:21.215779+00:00"
+    }
+  },
+  "failed": [],
+  "dedup_removed": 20
+}

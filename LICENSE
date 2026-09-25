@@ -1,0 +1,6 @@
+Code (scripts/, configs/): MIT License.
+Synthetic benchmark, labels, tables and figures (data/, results/): CC BY 4.0.
+Copyright (c) 2026 Chuka Josemaria Uzo.
+
+Third-party datasets are NOT redistributed; scripts/download_datasets.py fetches them from
+their original sources under their own licences.
