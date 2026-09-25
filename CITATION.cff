@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this code or benchmark, please cite the paper below."
+title: "Capable Enough to Be Hijacked: code and benchmark for quantization and indirect prompt injection in small edge LLMs"
+authors:
+  - family-names: "Uzo"
+    given-names: "Chuka Josemaria"
+    affiliation: "Independent Researcher"
+    orcid: "https://orcid.org/0009-0009-9411-2858"
+version: "1.0.3"
+license: "MIT"
+repository-code: "https://github.com/Chuka-J-Uzo/edge-llm-quantization-injection"
+keywords:
+  - quantization
+  - prompt injection
+  - LLM security
+  - edge AI
+  - llama.cpp
+preferred-citation:
+  type: article
+  title: "Capable Enough to Be Hijacked: Quantization, Caution, and Indirect Prompt Injection in Small Edge LLMs"
+  authors:
+    - family-names: "Uzo"
+      given-names: "Chuka Josemaria"
+      orcid: "https://orcid.org/0009-0009-9411-2858"
+  doi: "10.5281/zenodo.22962299"
+  year: 2026
+  publisher:
+    name: "Zenodo"
