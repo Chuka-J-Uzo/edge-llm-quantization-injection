@@ -1,0 +1,8 @@
+The synthetic benchmark, labels, tables and figures in data/ and results/ are
+licensed under the Creative Commons Attribution 4.0 International licence
+(CC BY 4.0): https://creativecommons.org/licenses/by/4.0/
+
+Copyright (c) 2026 Chuka Josemaria Uzo
+
+Third-party datasets are not redistributed; scripts/download_datasets.py
+fetches them from their original sources under their own licences.
